@@ -1,8 +1,8 @@
-# eslint-config-airbnb
+# eslint-config-vf
 
-[![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)](http://badge.fury.io/js/eslint-config-airbnb)
+<!-- [![npm version](https://badge.fury.io/js/eslint-config-airbnb.svg)](http://badge.fury.io/js/eslint-config-airbnb) -->
 
-This package provides Airbnb's .eslintrc as an extensible shared config.
+This package provides VF's .eslintrc as an extensible shared config. It is a modified version of Airbnb's ESLint config
 
 ## Usage
 

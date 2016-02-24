@@ -1,7 +1,7 @@
 {
     "name": "eslint-config-vf",
-    "version": "6.0.2",
-    "description": "Virtual Forrge's ESLint config, following our styleguide",
+    "version": "1.0.0",
+    "description": "The Virtual Forge's ESLint config, following our styleguide",
     "main": "index.js",
     "scripts": {
         "lint": "eslint .",

@@ -1,8 +1,8 @@
 module.exports = {
     extends: [
-        'eslint-config-airbnb/base',
-        'eslint-config-airbnb/rules/strict',
-        'eslint-config-airbnb/rules/react',
+        'eslint-config-vf/base',
+        'eslint-config-vf/rules/strict',
+        'eslint-config-vf/rules/react',
     ].map(require.resolve),
     rules: {}
 };
