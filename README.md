@@ -8,29 +8,29 @@ This package provides VF's .eslintrc as an extensible shared config. It is a mod
 
 We export three ESLint configurations for your usage.
 
-### eslint-config-airbnb
+### eslint-config-vf
 
 Our default export contains all of our ESLint rules, including EcmaScript 6+
 and React. It requires `eslint` and `eslint-plugin-react`.
 
-1. `npm install --save-dev eslint-config-airbnb eslint-plugin-react eslint`
-2. add `"extends": "airbnb"` to your .eslintrc
+1. `npm install --save-dev eslint-config-vf eslint-plugin-react eslint`
+2. add `"extends": "vf"` to your .eslintrc
 
-### eslint-config-airbnb/base
+### eslint-config-vf/base
 
 Lints ES6+ but does not lint React. Requires `eslint`.
 
-1. `npm install --save-dev eslint-config-airbnb eslint`
-2. add `"extends": "airbnb/base"` to your .eslintrc
+1. `npm install --save-dev eslint-config-vf eslint`
+2. add `"extends": "vf/base"` to your .eslintrc
 
-### eslint-config-airbnb/legacy
+### eslint-config-vf/legacy
 
 Lints ES5 and below. Only requires `eslint`.
 
-1. `npm install --save-dev eslint-config-airbnb eslint`
-2. add `"extends": "airbnb/legacy"` to your .eslintrc
+1. `npm install --save-dev eslint-config-vf eslint`
+2. add `"extends": "vf/legacy"` to your .eslintrc
 
-See [Airbnb's Javascript styleguide](https://github.com/airbnb/javascript) and
+See [VF's Javascript styleguide](https://github.com/thevirtualforge/javascript) and
 the [ESlint config docs](http://eslint.org/docs/user-guide/configuring#extending-configuration-files)
 for more information.
 
